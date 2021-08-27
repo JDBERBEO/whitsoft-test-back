@@ -1,0 +1,11 @@
+{
+  "name": "whitesoft-test-back",
+  "version": "1.0.0",
+  "description": "technical-test",
+  "main": "server.js",
+  "license": "MIT",
+  "author": "Juan David Berbeo <jd.berbeo@gmail.com> (https://www.linkedin.com/in/juan-david-berbeo/)",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
