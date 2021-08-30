@@ -18,6 +18,6 @@ app.use(morgan('dev'))
 app.use('/user', userRouter)
 
 
-app.listen(8000, () => {
+app.listen(port, () => {
     console.log(`app running at http://localhost:${port}`)
 })
